@@ -15,6 +15,6 @@ jQuery(function($){
     fit_landscape			:   0,			// Landscape images will not exceed browser width
 
     // Components
-    slides                :   [{image : 'slides/brian.jpg', title : 'brian'}]
+    slides                :   [{image : '/slides/brian.jpg', title : 'brian'}]
   });
 });
