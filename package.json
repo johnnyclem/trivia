@@ -1,5 +1,5 @@
 {
-    "name": "application-name"
+    "name": "olympia trivia"
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
