@@ -30,7 +30,7 @@ app.configure('production', function(){
 
 app.get('/', function(req, res){
   res.render('index', {
-    title: 'Express'
+    title: 'TRIVIA. 8 p.m. on Tuesdays at Hannah\'s'
   });
 });
 
